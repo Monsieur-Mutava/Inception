@@ -1,2 +1,2 @@
 # Inception
-__This marks the beginning of my coding journey__
+__This repo marks the beginning of my coding journey__
